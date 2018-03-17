@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/LEDBlink.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>2560</length>
+      <used>2060</used>
+      <free>500</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>1533</length>
+      <used>1440</used>
+      <free>93</free>
+    </memory>
+  </executable>
+</project>
